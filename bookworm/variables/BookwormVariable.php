@@ -31,7 +31,6 @@ class BookwormVariable
     $shelf = (isset($options['shelf']) ? $options['shelf'] : 'read');
     $limit = (isset($options['limit']) ? $options['limit'] : '10');
     $sortBy = (isset($options['sortBy']) ? $options['sortBy'] : 'date_read');
-    $order = (isset($options['order']) ? $options['order'] : 'desc');
     
     if ($userID === "") {
 	    
@@ -66,15 +65,7 @@ class BookwormVariable
 				}
 				
 				if (count($books) > 0) {
-					// Check if order is set to ascending. If it is, reverse the array, otherwise carry on.
-					
-					if ($order == "asc") {
-						$books = array_reverse($books);
-					}
-					
-					
 					// Everything seems to have worked, send the books to the template.
-					
 					return $books;
 				} else {
 					$error = "No books could be found. Are your settings correct?<br />Feed url: <a href='$feed_url' target='_blank' style='color:#000000 !important;'>$feed_url</a>";
