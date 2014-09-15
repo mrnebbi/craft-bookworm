@@ -1,0 +1,30 @@
+{% import "_includes/forms" as forms %}
+
+<fieldset>
+{{ forms.textField({
+  label: 'Goodreads User ID',
+  required: true,
+  instructions: 'This is the 7 digit number used to indentify your user account.',
+  name: 'goodreadsID',
+  value: settings.goodreadsID,
+  size: 8
+}) }}
+
+{{ forms.textField({
+  label: 'Goodreads API Key',
+  required: true,
+	instructions: 'This is your unique API key. You can find this is in the settings page.',
+  name: 'goodreadsAPIKey',
+  value: settings.goodreadsAPIKey,
+  size: 30
+}) }}
+
+{{ forms.lightswitchField({
+  label: 'Show errors on the front-end',
+  required: false,
+	instructions: 'If you would like error message to show on your site front-end, please tick this box.<br />This may be useful if you are encountering problems.',
+  name: 'showErrors',
+  value: settings.showErrors,
+  on: (settings.showErrors is defined) ? settings.showErrors : ""
+}) }}
+</div>
