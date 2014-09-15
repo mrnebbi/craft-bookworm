@@ -35,7 +35,7 @@ class BookwormPlugin extends BasePlugin
     {
         return array(
             'goodreadsID' => array(AttributeType::String, 'required' => true, 'label' => 'Goodreads User ID', 'default' => Craft::t('')),
-            'goodreadsAPIKey' => array(AttributeType::String, 'required' => true, 'label' => 'Goodreads API Key', 'default' => Craft::t('')),
+            'goodreadsAPIKey' => array(AttributeType::String, 'required' => false, 'label' => 'Goodreads API Key', 'default' => false),
             'showErrors' => array(AttributeType::Bool, 'required' => false, 'label' => 'Show errors', 'default' => false)
         );
     }

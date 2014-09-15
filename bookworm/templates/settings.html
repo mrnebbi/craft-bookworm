@@ -11,9 +11,9 @@
 }) }}
 
 {{ forms.textField({
-  label: 'Goodreads API Key',
-  required: true,
-	instructions: 'This is your unique API key. You can find this is in the settings page.',
+  label: 'Goodreads API Key (optional)',
+  required: false,
+	instructions: 'If you would like to add an API key to your requests, you can add it here.',
   name: 'goodreadsAPIKey',
   value: settings.goodreadsAPIKey,
   size: 30

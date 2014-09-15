@@ -25,22 +25,22 @@ class BookwormVariable
 		// Fetch plugin settings
 		$settings = craft()->plugins->getPlugin('Bookworm')->getSettings();
     $userID = $settings['goodreadsID'];
-    $apiKey = $settings['goodreadsAPIKey'];
+    $apiKey = (isset($settings['goodreadsAPIKey']) ? $settings['goodreadsAPIKey'] : '');
     $showErrors = $settings['showErrors'];
     
     $shelf = (isset($options['shelf']) ? $options['shelf'] : 'read');
     $limit = (isset($options['limit']) ? $options['limit'] : '10');
     $sortBy = (isset($options['sortBy']) ? $options['sortBy'] : 'date_read');
     
-    if ($userID === "" || $apiKey === "") {
+    if ($userID === "") {
 	    
-	    // Basic error check to see if API Key and User ID have values.
-    	$error = "You must provide an API key and User ID. Please finishing setting up Bookworm using the plugin settings in Craft.";
+	    // Basic error check to see if User ID has a value.
+    	$error = "You must provide a User ID. Please finishing setting up Bookworm using the plugin settings in Craft.";
     
     } else {
-    
+
     	// Construct the feed URL and try to fetch the data.
-			$feed_url = "http://www.goodreads.com/review/list_rss/$userID?key=$apiKey&method=reviews.list&per_page=$limit&shelf=$shelf&sort=$sortBy";
+			$feed_url = "http://www.goodreads.com/review/list_rss/$userID?" . ($apiKey != "" ? "key=$apiKey" : "" ) . "method=reviews.list&per_page=$limit&shelf=$shelf&sort=$sortBy";
 			$feed = @simplexml_load_file($feed_url);
 			
 			// Check if the simplexl_load_file gave us some data or if the function threw back an error.
