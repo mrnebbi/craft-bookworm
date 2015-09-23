@@ -91,6 +91,10 @@ Books that have been retrieved are in descending order by default. You can rever
 
 ## Changelog
 
+### 1.0.3
+
+- Fixed markup error in settings page
+- Updated README
 
 ### 1.0.2
 
