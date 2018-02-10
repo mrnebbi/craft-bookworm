@@ -1,4 +1,4 @@
-#Bookworm Goodreads plugin for Craft CMS
+# Bookworm for Goodreads
 
 [![version 1.0.4](https://img.shields.io/badge/version-1.0.4-brightgreen.svg)](https://github.com/mrnebbi/craft-bookworm)
 
