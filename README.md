@@ -1,5 +1,6 @@
-Bookworm Goodreads plugin for Craft CMS
-=======================================
+#Bookworm Goodreads plugin for Craft CMS
+
+[![version 1.0.4](https://img.shields.io/badge/version-1.0.4-brightgreen.svg)](https://github.com/mrnebbi/craft-bookworm)
 
 Bookworm is a Craft CMS plugin to provide lists of books from your Goodreads shelves.
 

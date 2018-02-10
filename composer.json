@@ -1,0 +1,6 @@
+{
+name: "mrnebbi/craft-bookworm",
+description: "Craft CMS plugin to provide lists of books from your Goodreads shelves",
+type: "craft-plugin",
+require: { }
+}

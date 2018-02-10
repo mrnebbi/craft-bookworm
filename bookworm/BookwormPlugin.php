@@ -18,17 +18,27 @@ class BookwormPlugin extends BasePlugin
 
     function getVersion()
     {
-        return '1.0.3';
+        return '1.0.4';
     }
 
     function getDeveloper()
     {
-        return 'Ian Isted';
+        return 'Mr Nebbi';
     }
 
     function getDeveloperUrl()
     {
         return 'http://ianisted.co.uk';
+    }
+
+    function getDocumentationUrl()
+    {
+        return 'https://github.com/mrnebbi/craft-bookworm/';
+    }
+
+    function getReleaseFeedUrl()
+    {
+        return 'https://raw.github.com/mrnebbi/craft-bookworm/master/releases.json';
     }
     
     protected function defineSettings()

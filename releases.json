@@ -1,0 +1,42 @@
+[
+	{
+		version: "1.0.0",
+		downloadUrl: "https://github.com/mrnebbi/craft-bookworm/archive/master.zip",
+		date: "2014-09-15T09:10:00.000000",
+		notes: [
+			"[Added] First version release."
+		]
+	},
+	{
+		version: "1.0.1",
+		downloadUrl: "https://github.com/mrnebbi/craft-bookworm/archive/master.zip",
+		date: "2014-09-15T10:00:00.000000",
+		notes: [
+			"[Improved] API key is now an optional setting. The API key is now an optional setting that can be provided if the user wishes. If the API key is present, it will be added to the URL call, otherwise it will be left out."
+		]
+	},
+	{
+		version: "1.0.2",
+		downloadUrl: "https://github.com/mrnebbi/craft-bookworm/archive/master.zip",
+		date: "2014-09-15T11:00:00.000000",
+		notes: [
+			"[Added] Added order parameter. Added an additional parameter to order the retrieved books in ascending/descending order."
+		]
+	},
+	{
+		version: "1.0.3",
+		downloadUrl: "https://github.com/mrnebbi/craft-bookworm/archive/master.zip",
+		date: "2014-09-23T09:00:00.000000",
+		notes: [
+			"[Fixed] Corrected markup problem with Settings page. The settings page had a closing Div for a opening Fieldset."
+		]
+	},
+	{
+		version: "1.0.4",
+		downloadUrl: "https://github.com/mrnebbi/craft-bookworm/archive/master.zip",
+		date: "2018-02-10T21:22:00.000000",
+		notes: [
+			"[Added] Added release information and documentation url."
+		]
+	}
+]
