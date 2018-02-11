@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="610px" height="610px" viewBox="0 0 610 610" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>g2v</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="305" cy="305" r="305"></circle>
+        <path d="M184.665226,293.078276 C184.665226,215.599655 227.252812,162.75 296.521778,162.75 C365.790744,162.75 382.210054,206.876897 382.210054,206.876897 L383.236261,206.876897 L383.236261,197.127931 C383.236261,178.656207 391.445916,168.907241 412.483157,168.907241 L448.400399,168.907241 L448.400399,199.180345 L427.363157,199.180345 C420.179709,199.180345 416.074881,202.772069 416.074881,210.468621 L416.074881,420.841034 C416.074881,502.937586 355.528675,534.75 291.903847,534.75 C262.65695,534.75 232.89695,527.053448 207.754881,514.225862 L221.095571,484.978966 C221.095571,484.978966 252.907985,502.937586 290.87764,502.937586 C341.161778,502.937586 381.183847,479.334828 381.183847,421.867241 L381.183847,399.29069 C381.183847,389.541724 381.69695,380.818966 381.69695,380.818966 L380.670744,380.818966 C365.27764,409.039655 339.622468,425.458966 299.600399,425.458966 C230.331433,425.458966 184.665226,370.556897 184.665226,293.078276 Z M304.731433,394.159655 C345.779709,394.159655 381.69695,369.017586 381.69695,293.078276 C381.69695,217.652069 345.779709,194.562414 300.113502,194.562414 C249.829364,194.562414 220.582468,230.992759 220.582468,292.565172 C220.582468,354.137586 253.934192,394.159655 304.731433,394.159655 Z" id="path-3"></path>
+        <filter x="-28.4%" y="-20.2%" width="156.9%" height="140.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="15" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.956862745   0 0 0 0 0.945098039   0 0 0 0 0.917647059  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-5" cx="305" cy="305" r="305"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <g id="icon"></g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Oval" fill="#429D83" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="Books" mask="url(#mask-2)">
+                <g transform="translate(0.000000, 79.000000)">
+                    <rect id="Rectangle" fill="#D8D8D8" x="0" y="66" width="72" height="552"></rect>
+                    <rect id="Rectangle" fill="#B68E06" x="72" y="42" width="72" height="575"></rect>
+                    <rect id="Rectangle" fill="#FFFEF8" x="77" y="42" width="63" height="575"></rect>
+                    <rect id="Rectangle" fill="#000000" x="144" y="81" width="72" height="534"></rect>
+                    <rect id="Rectangle" fill="#FFFEF6" x="149" y="81" width="62" height="534"></rect>
+                    <rect id="Rectangle" fill="#299DD3" x="216" y="42" width="89" height="575"></rect>
+                    <rect id="Rectangle" fill="#FBFBFB" x="222" y="42" width="77" height="575"></rect>
+                    <rect id="Rectangle" fill="#D8D8D8" x="305" y="66" width="72" height="552"></rect>
+                    <rect id="Rectangle" fill="#FFFAEE" x="310" y="66" width="62" height="552"></rect>
+                    <rect id="Rectangle" fill="#DD3939" x="377" y="0" width="72" height="615"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="383" y="0" width="61" height="615"></rect>
+                    <rect id="Rectangle" fill="#5C4D4D" x="449" y="42" width="72" height="575"></rect>
+                    <rect id="Rectangle" fill="#FBFAEE" x="454" y="42" width="62" height="575"></rect>
+                    <rect id="Rectangle" fill="#509100" x="521" y="66" width="89" height="552"></rect>
+                    <rect id="Rectangle" fill="#F6F6F6" x="528" y="66" width="75" height="552"></rect>
+                    <rect id="Rectangle" fill="#902626" x="0" y="66" width="72" height="552"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="6" y="66" width="60" height="552"></rect>
+                    <rect id="Rectangle" fill="#FFFFFF" x="6" y="66" width="60" height="552"></rect>
+                    <g id="Pages" opacity="0.427649457" stroke-width="1" fill="none" transform="translate(9.000000, 66.000000)" stroke-linecap="square">
+                        <path d="M1,0.795275591 L1,403.939224" id="Line" stroke="#DADADA"></path>
+                        <path d="M5,0.795275591 L5,403.939224" id="Line" stroke="#DADADA"></path>
+                        <path d="M9,0.795275591 L9,403.939224" id="Line" stroke="#DADADA"></path>
+                        <path d="M13,0.795275591 L13,403.939224" id="Line" stroke="#DADADA"></path>
+                        <path d="M17,0.795275591 L17,403.939224" id="Line" stroke="#DADADA"></path>
+                        <path d="M21,0.795275591 L21,403.939224" id="Line" stroke="#DADADA"></path>
+                        <path d="M25,0.795275591 L25,403.939224" id="Line" stroke="#DADADA"></path>
+                        <path d="M29,0.795275591 L29,403.939224" id="Line" stroke="#DADADA"></path>
+                        <path d="M33,0.795275591 L33,403.939224" id="Line" stroke="#DADADA"></path>
+                        <path d="M37,0.795275591 L37,403.939224" id="Line" stroke="#DADADA"></path>
+                        <path d="M41,0.795275591 L41,403.939224" id="Line" stroke="#DADADA"></path>
+                        <path d="M45,0.795275591 L45,403.939224" id="Line" stroke="#DADADA"></path>
+                        <path d="M49,0.795275591 L49,403.939224" id="Line" stroke="#DADADA"></path>
+                        <path d="M53,0.795275591 L53,403.939224" id="Line" stroke="#DADADA"></path>
+                    </g>
+                    <g id="Pages" opacity="0.548913043" stroke-width="1" fill="none" transform="translate(79.000000, 42.000000)" stroke-linecap="square">
+                        <path d="M1,0 L1,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M5,0 L5,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M9,0 L9,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M13,0 L13,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M17,0 L17,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M21,0 L21,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M25,0 L25,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M29,0 L29,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M33,0 L33,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M37,0 L37,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M41,0 L41,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M45,0 L45,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M49,0 L49,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M53,0 L53,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M57,0 L57,553" id="Line" stroke="#DBDACC"></path>
+                    </g>
+                    <g id="Pages" opacity="0.393285779" stroke-width="1" fill="none" transform="translate(151.000000, 83.000000)" stroke-linecap="square">
+                        <path d="M1,0 L1,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M5,0 L5,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M9,0 L9,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M13,0 L13,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M17,0 L17,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M21,0 L21,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M25,0 L25,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M29,0 L29,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M33,0 L33,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M37,0 L37,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M41,0 L41,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M45,0 L45,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M49,0 L49,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M53,0 L53,553" id="Line" stroke="#DBDACC"></path>
+                        <path d="M57,0 L57,553" id="Line" stroke="#DBDACC"></path>
+                    </g>
+                    <g id="Pages" opacity="0.467730978" stroke-width="1" fill="none" transform="translate(224.000000, 42.000000)" stroke-linecap="square">
+                        <path d="M9,0 L9,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M5,0 L5,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M13,0 L13,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M1,0 L1,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M17,0 L17,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M21,0 L21,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M25,0 L25,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M29,0 L29,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M33,0 L33,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M37,0 L37,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M41,0 L41,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M45,0 L45,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M49,0 L49,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M53,0 L53,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M57,0 L57,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M61,0 L61,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M65,0 L65,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M69,0 L69,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M73,0 L73,641" id="Line" stroke="#DBDACC"></path>
+                    </g>
+                    <g id="Pages" opacity="0.481657609" stroke-width="1" fill="none" transform="translate(312.000000, 65.000000)" stroke-linecap="square">
+                        <path d="M1,0 L1,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M5,0 L5,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M9,0 L9,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M13,0 L13,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M17,0 L17,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M21,0 L21,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M25,0 L25,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M29,0 L29,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M33,0 L33,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M37,0 L37,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M41,0 L41,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M45,0 L45,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M49,0 L49,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M53,0 L53,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M57,0 L57,641" id="Line" stroke="#DBDACC"></path>
+                    </g>
+                    <g id="Pages" opacity="0.600430254" stroke-width="1" fill="none" transform="translate(385.000000, 1.000000)" stroke-linecap="square">
+                        <path d="M1,0 L1,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M5,0 L5,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M9,0 L9,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M13,0 L13,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M17,0 L17,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M21,0 L21,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M25,0 L25,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M29,0 L29,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M33,0 L33,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M37,0 L37,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M41,0 L41,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M45,0 L45,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M49,0 L49,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M53,0 L53,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M57,0 L57,641" id="Line" stroke="#DBDACC"></path>
+                    </g>
+                    <g id="Pages" opacity="0.600430254" stroke-width="1" fill="none" transform="translate(456.000000, 42.000000)" stroke-linecap="square">
+                        <path d="M1,0 L1,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M5,0 L5,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M9,0 L9,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M13,0 L13,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M17,0 L17,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M21,0 L21,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M25,0 L25,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M29,0 L29,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M33,0 L33,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M37,0 L37,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M41,0 L41,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M45,0 L45,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M49,0 L49,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M53,0 L53,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M57,0 L57,641" id="Line" stroke="#DBDACC"></path>
+                    </g>
+                    <g id="Pages" opacity="0.600430254" stroke-width="1" fill="none" transform="translate(530.000000, 65.000000)" stroke-linecap="square">
+                        <path d="M1,0 L1,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M5,0 L5,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M9,0 L9,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M13,0 L13,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M17,0 L17,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M21,0 L21,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M25,0 L25,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M29,0 L29,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M33,0 L33,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M37,0 L37,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M41,0 L41,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M45,0 L45,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M49,0 L49,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M53,0 L53,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M57,0 L57,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M61,0 L61,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M65,0 L65,641" id="Line" stroke="#DBDACC"></path>
+                        <path d="M69,0 L69,641" id="Line" stroke="#DBDACC"></path>
+                    </g>
+                </g>
+            </g>
+            <g id="g" mask="url(#mask-2)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#927F64" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+            <mask id="mask-6" fill="white">
+                <use xlink:href="#path-5"></use>
+            </mask>
+            <circle stroke="#429D83" stroke-width="20" cx="305" cy="305" r="295"></circle>
+        </g>
+    </g>
+</svg>
