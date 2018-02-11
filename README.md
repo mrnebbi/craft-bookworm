@@ -1,4 +1,4 @@
-#Bookworm Goodreads plugin for Craft CMS
+# Bookworm for Goodreads
 
 [![version 1.0.4](https://img.shields.io/badge/version-1.0.4-brightgreen.svg)](https://github.com/mrnebbi/craft-bookworm)
 
@@ -91,6 +91,10 @@ Books that have been retrieved are in descending order by default. You can rever
 
 
 ## Changelog
+
+### 1.0.4
+
+- Added composer and releases files
 
 ### 1.0.3
 
